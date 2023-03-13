@@ -1,0 +1,15 @@
+{
+    "content": {
+        "message": {
+            "role": "assistant",
+            "content": {"puan": 1, "yon": nötr, "ai_opinion":"Bu ifade haber niteliği taşımıyor, konuyla ilgili herhangi bir değerlendirme yapamam."}
+        },
+        "finish_reason": "stop",
+        "index": 0
+    },
+    "info": {
+        "prompt_tokens": 404,
+        "completion_tokens": 54,
+        "total_tokens": 458
+    }
+}
